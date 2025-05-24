@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Amani Salah] 👋
+# Hi there, I'm Amani Salah 👋
 
 I’m a passionate Software Engineering student focused on backend development and software design.
 
